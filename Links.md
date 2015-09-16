@@ -3,8 +3,9 @@ This is one of MANY links i'm going to post here.
 # Front-End:
 
 ## Front-End Development
-* http://developer.telerik.com/featured/planning-front-end-javascript-application/
-* http://purecssapple.com/
+* http://developer.telerik.com/featured/planning-front-end-javascript-application/ | Planning how to develop a Javascript front-end application
+* http://purecssapple.com/ | Apple products made in pure CSS
+* http://addyosmani.com/blog/199-slides-on-front-end-tooling-workflows/ | Slides about how front-end development workflows are meant to be.
 
 ## HTML
 * http://www.webcodegeeks.com/html5/html5-geolocation-example-weather-widget-demo/ - HTML5 Geolocation example usage
