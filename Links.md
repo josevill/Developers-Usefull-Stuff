@@ -24,4 +24,13 @@ This is one of MANY links i'm going to post here.
 * https://regex101.com/ - Regular Expressions | Contains examples and most used formulas (SUPER USEFUL)
 
 # SublimeText 3
-##
+
+## Theme - Color Schemes related
+### Themes
+* https://packagecontrol.io/packages/Seti_UI | Best UI out there for ST3 FOR ME. (At least for Windows and Linux with minimalistic UI settings)
+
+### Plugins
+* https://github.com/benweier/Themr - Themes plugin | Allows you to change from theme to theme with shortcuts, setting favorite themes and many more things.
+* https://github.com/benweier/Schemr - Color schemes plugin | Same as Themr but for color schemes. Amazebalss!
+ 
+
