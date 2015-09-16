@@ -40,3 +40,7 @@ This is one of MANY links i'm going to post here.
 * http://ejohn.org/apps/learn/ | It has some "kind of" deep exercises.
 * http://www.learn-js.org/ | Cool interface, it has a console and a bunch of basic content to learn.
 * https://github.com/ReactiveX/learnrx | Practice your functional javascript skills here! The best so far.
+* 
+
+## NodeJS
+* https://webdesignledger.com/24-nodejs-tuts-and-guides | Just Nodejs guides. What else were you expecting? :frown:
