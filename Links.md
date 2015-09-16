@@ -11,6 +11,9 @@ This is one of MANY links i'm going to post here.
 * http://www.webcodegeeks.com/html5/html5-geolocation-example-weather-widget-demo/ - HTML5 Geolocation example usage
 * http://www.creative-tim.com/ - A sh*t ton of html resources, tables, modals, forms, even bootstrap templates.
 
+## CSS
+* http://simurai.com/blog/2015/09/09/back-to-the-roots/ | Back to the roots, being as non-specific yet efficient as possible.
+
 ## Regexp
 * http://regexone.com/ - Learn how to RegExp like a ninja
 
