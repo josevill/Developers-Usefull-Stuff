@@ -9,6 +9,7 @@ This is one of MANY links i'm going to post here.
 
 ## HTML
 * http://www.webcodegeeks.com/html5/html5-geolocation-example-weather-widget-demo/ - HTML5 Geolocation example usage
+* http://www.creative-tim.com/ - A sh*t ton of html resources, tables, modals, forms, even bootstrap templates.
 
 ## Regexp
 * http://regexone.com/ - Learn how to RegExp like a ninja
@@ -18,7 +19,7 @@ This is one of MANY links i'm going to post here.
 
 ## Styling phase (?:
 * https://coolors.co/ - Create color schemes
-* 
+
 ## Playgrounds:
 * http://jqexercise.droppages.com/ - jQuery
 * http://www.regexr.com/ - Regular Expressions | Contains examples and most used formulas
@@ -34,4 +35,8 @@ This is one of MANY links i'm going to post here.
 * https://github.com/benweier/Themr - Themes plugin | Allows you to change from theme to theme with shortcuts, setting favorite themes and many more things.
 * https://github.com/benweier/Schemr - Color schemes plugin | Same as Themr but for color schemes. Amazebalss!
  
-
+# Javascript
+* http://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php | Javascript exercises, there are pretty cool, they come handy if you're new to the language and you want to test yourself.
+* http://ejohn.org/apps/learn/ | It has some "kind of" deep exercises.
+* http://www.learn-js.org/ | Cool interface, it has a console and a bunch of basic content to learn.
+* https://github.com/ReactiveX/learnrx | Practice your functional javascript skills here! The best so far.
