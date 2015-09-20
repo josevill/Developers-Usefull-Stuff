@@ -10,6 +10,7 @@ This is one of MANY links i'm going to post here.
 ## HTML
 * http://www.webcodegeeks.com/html5/html5-geolocation-example-weather-widget-demo/ - HTML5 Geolocation example usage
 * http://www.creative-tim.com/ - A sh*t ton of html resources, tables, modals, forms, even bootstrap templates.
+* http://www.html5rocks.com/en/ - HELLA USEFUL! A "MUST CHECK" if you're into the HTML5 new goodies.
 
 ## CSS
 * http://simurai.com/blog/2015/09/09/back-to-the-roots/ | Back to the roots, being as non-specific yet efficient as possible.
