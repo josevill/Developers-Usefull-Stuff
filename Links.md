@@ -48,6 +48,6 @@ This is one of MANY links i'm going to post here.
 
 ## NodeJS
 * https://webdesignledger.com/24-nodejs-tuts-and-guides | Just Nodejs guides. What else were you expecting? :grinning:
-
+* http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js | How do i get started with NodeJS post @ Stackoverflow with a load of links of guides, books, talks and more.
 # TBD
 * http://thenextweb.com/dd/2015/02/18/300-awesome-free-things-massive-list-free-resources-know/
